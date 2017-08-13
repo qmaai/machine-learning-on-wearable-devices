@@ -1,0 +1,596 @@
+
+
+2017-08-12 17:25:11.448467
+
+with_bias_eli
+
+	arousal:
+			n_estimator 10		accuracy 0.552631578947
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1  15  2
+2                 3   9  6
+
+			n_estimator 15		accuracy 0.447368421053
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 0  14  4
+2                 1  14  3
+
+			n_estimator 20		accuracy 0.5
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 3  12  3
+2                 2   9  7
+
+			n_estimator 25		accuracy 0.473684210526
+
+Predicted degree   1  2
+Actual degree          
+0                  2  0
+1                 14  4
+2                 14  4
+
+			n_estimator 30		accuracy 0.447368421053
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  14  4
+2                 3  12  3
+
+			n_estimator 35		accuracy 0.526315789474
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 1  15  2
+2                 3  10  5
+
+			n_estimator 40		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  14  4
+2                 2  12  4
+
+			n_estimator 45		accuracy 0.526315789474
+
+Predicted degree   1  2
+Actual degree          
+0                  2  0
+1                 13  5
+2                 11  7
+
+			n_estimator 50		accuracy 0.421052631579
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  14  4
+2                 1  15  2
+
+			n_estimator 55		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 1  16  1
+2                 0  16  2
+
+			n_estimator 60		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 1  13  4
+2                 1  12  5
+
+			n_estimator 65		accuracy 0.552631578947
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 1  12  5
+
+			n_estimator 70		accuracy 0.526315789474
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 2  12  4
+
+			n_estimator 75		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 1  14  3
+2                 1  13  4
+
+			n_estimator 80		accuracy 0.578947368421
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  17  1
+2                 1  12  5
+
+			n_estimator 85		accuracy 0.394736842105
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  13  5
+2                 1  15  2
+
+			n_estimator 90		accuracy 0.526315789474
+
+Predicted degree   1  2
+Actual degree          
+0                  2  0
+1                 17  1
+2                 15  3
+
+			n_estimator 95		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 1  13  4
+2                 1  12  5
+
+
+
+	valence:
+			n_estimator 10		accuracy 0.315789473684
+
+Predicted degree  0  1   2
+Actual degree             
+0                 3  0   6
+1                 1  3  11
+2                 6  2   6
+
+			n_estimator 15		accuracy 0.236842105263
+
+Predicted degree  0  1  2
+Actual degree            
+0                 3  0  6
+1                 8  3  4
+2                 5  6  3
+
+			n_estimator 20		accuracy 0.263157894737
+
+Predicted degree  0   1  2
+Actual degree             
+0                 3   4  2
+1                 5   6  4
+2                 2  11  1
+
+			n_estimator 25		accuracy 0.289473684211
+
+Predicted degree  0  1   2
+Actual degree             
+0                 1  0   8
+1                 0  4  11
+2                 0  8   6
+
+			n_estimator 30		accuracy 0.289473684211
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  2  5
+1                 4  8  3
+2                 6  7  1
+
+			n_estimator 35		accuracy 0.342105263158
+
+Predicted degree  0  1  2
+Actual degree            
+0                 3  2  4
+1                 4  4  7
+2                 3  5  6
+
+			n_estimator 40		accuracy 0.342105263158
+
+Predicted degree  0  1  2
+Actual degree            
+0                 5  1  3
+1                 6  3  6
+2                 2  7  5
+
+			n_estimator 45		accuracy 0.157894736842
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  2  5
+1                 7  2  6
+2                 6  6  2
+
+			n_estimator 50		accuracy 0.315789473684
+
+Predicted degree  0  1  2
+Actual degree            
+0                 1  1  7
+1                 3  6  6
+2                 3  6  5
+
+			n_estimator 55		accuracy 0.289473684211
+
+Predicted degree  0  1  2
+Actual degree            
+0                 0  0  9
+1                 2  6  7
+2                 4  5  5
+
+			n_estimator 60		accuracy 0.236842105263
+
+Predicted degree  0  1  2
+Actual degree            
+0                 1  3  5
+1                 4  3  8
+2                 3  6  5
+
+			n_estimator 65		accuracy 0.263157894737
+
+Predicted degree  0   1  2
+Actual degree             
+0                 3   1  5
+1                 5   3  7
+2                 0  10  4
+
+			n_estimator 70		accuracy 0.315789473684
+
+Predicted degree  0  1   2
+Actual degree             
+0                 2  0   7
+1                 1  2  12
+2                 1  5   8
+
+			n_estimator 75		accuracy 0.342105263158
+
+Predicted degree  0  1  2
+Actual degree            
+0                 1  0  8
+1                 1  6  8
+2                 1  7  6
+
+			n_estimator 80		accuracy 0.315789473684
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  0  7
+1                 3  3  9
+2                 1  6  7
+
+			n_estimator 85		accuracy 0.263157894737
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  1  6
+1                 2  4  9
+2                 3  7  4
+
+			n_estimator 90		accuracy 0.315789473684
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  0  7
+1                 2  5  8
+2                 4  5  5
+
+			n_estimator 95		accuracy 0.315789473684
+
+Predicted degree  0  1  2
+Actual degree            
+0                 3  1  5
+1                 4  3  8
+2                 3  5  6
+
+
+
+2017-08-12 17:25:14.561206
+
+no_bias_elimination
+
+	arousal:
+			n_estimator 10		accuracy 0.394736842105
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 1  14  3
+2                 3  14  1
+
+			n_estimator 15		accuracy 0.5
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  15  3
+2                 3  11  4
+
+			n_estimator 20		accuracy 0.5
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  15  3
+2                 1  13  4
+
+			n_estimator 25		accuracy 0.394736842105
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  13  5
+2                 1  15  2
+
+			n_estimator 30		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  13  5
+2                 2  11  5
+
+			n_estimator 35		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 1  15  2
+
+			n_estimator 40		accuracy 0.447368421053
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  15  3
+2                 2  14  2
+
+			n_estimator 45		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  15  3
+2                 2  13  3
+
+			n_estimator 50		accuracy 0.552631578947
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  18  0
+2                 1  14  3
+
+			n_estimator 55		accuracy 0.526315789474
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 1  13  4
+
+			n_estimator 60		accuracy 0.5
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  15  3
+2                 1  13  4
+
+			n_estimator 65		accuracy 0.526315789474
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 1  13  4
+
+			n_estimator 70		accuracy 0.552631578947
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  17  1
+2                 1  13  4
+
+			n_estimator 75		accuracy 0.447368421053
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  14  4
+2                 2  13  3
+
+			n_estimator 80		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  17  1
+2                 2  15  1
+
+			n_estimator 85		accuracy 0.526315789474
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 2  12  4
+
+			n_estimator 90		accuracy 0.552631578947
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  16  2
+2                 1  12  5
+
+			n_estimator 95		accuracy 0.447368421053
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   2  0
+1                 0  14  4
+2                 1  14  3
+
+
+
+	valence:
+			n_estimator 10		accuracy 0.368421052632
+
+Predicted degree  0   1  2
+Actual degree             
+0                 4   2  3
+1                 3  10  2
+2                 1  13  0
+
+			n_estimator 15		accuracy 0.421052631579
+
+Predicted degree  0   1  2
+Actual degree             
+0                 2   4  3
+1                 2  10  3
+2                 5   5  4
+
+			n_estimator 20		accuracy 0.368421052632
+
+Predicted degree  0  1  2
+Actual degree            
+0                 3  2  4
+1                 2  8  5
+2                 2  9  3
+
+			n_estimator 25		accuracy 0.473684210526
+
+Predicted degree  0  1  2
+Actual degree            
+0                 5  1  3
+1                 3  9  3
+2                 1  9  4
+
+			n_estimator 30		accuracy 0.342105263158
+
+Predicted degree  0  1  2
+Actual degree            
+0                 1  3  5
+1                 2  9  4
+2                 3  8  3
+
+			n_estimator 35		accuracy 0.368421052632
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  1  6
+1                 3  8  4
+2                 1  9  4
+
+			n_estimator 40		accuracy 0.421052631579
+
+Predicted degree  0   1  2
+Actual degree             
+0                 1   3  5
+1                 1  12  2
+2                 1  10  3
+
+			n_estimator 45		accuracy 0.368421052632
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  4  3
+1                 3  8  4
+2                 1  9  4
+
+			n_estimator 50		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 2   2  5
+1                 2   8  5
+2                 1  10  3
+
+			n_estimator 55		accuracy 0.394736842105
+
+Predicted degree  0   1  2
+Actual degree             
+0                 3   1  5
+1                 3   8  4
+2                 0  10  4
+
+			n_estimator 60		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 3   3  3
+1                 2  11  2
+2                 1   9  4
+
+			n_estimator 65		accuracy 0.315789473684
+
+Predicted degree  0   1  2
+Actual degree             
+0                 1   3  5
+1                 3   8  4
+2                 1  10  3
+
+			n_estimator 70		accuracy 0.447368421053
+
+Predicted degree  0   1  2
+Actual degree             
+0                 2   0  7
+1                 1  12  2
+2                 1  10  3
+
+			n_estimator 75		accuracy 0.394736842105
+
+Predicted degree  0   1  2
+Actual degree             
+0                 2   2  5
+1                 2   9  4
+2                 0  10  4
+
+			n_estimator 80		accuracy 0.394736842105
+
+Predicted degree  0  1  2
+Actual degree            
+0                 2  2  5
+1                 2  9  4
+2                 3  7  4
+
+			n_estimator 85		accuracy 0.421052631579
+
+Predicted degree  0   1  2
+Actual degree             
+0                 2   4  3
+1                 2  10  3
+2                 1   9  4
+
+			n_estimator 90		accuracy 0.473684210526
+
+Predicted degree  0   1  2
+Actual degree             
+0                 2   2  5
+1                 1  11  3
+2                 1   8  5
+
+			n_estimator 95		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 1   3  5
+1                 3   9  3
+2                 0  11  3
+

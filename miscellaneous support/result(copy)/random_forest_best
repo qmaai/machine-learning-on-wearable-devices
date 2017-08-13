@@ -1,0 +1,45 @@
+
+
+2017-08-12 17:32:35.710027
+
+with_bias_elimination
+
+	arousal:
+			optimal n_estimator 55		optimal accuracy 0.605263157895
+
+Predicted degree  high  middle
+Actual degree                 
+high                 1      17
+low                  0       2
+middle               2      16
+
+	valence:
+			optimal n_estimator 10		optimal accuracy 0.394736842105
+
+Predicted degree  high  low  middle
+Actual degree                      
+high                 2    5       7
+low                  4    3       2
+middle               5    7       3
+
+2017-08-12 17:32:38.360740
+
+no_bias_elimination
+
+	arousal:
+			optimal n_estimator 20		optimal accuracy 0.526315789474
+
+Predicted degree  high  low  middle
+Actual degree                      
+high                 3    2      13
+low                  0    0       2
+middle               5    0      13
+
+	valence:
+			optimal n_estimator 20		optimal accuracy 0.552631578947
+
+Predicted degree  high  low  middle
+Actual degree                      
+high                 3    3       8
+low                  4    1       4
+middle               5    3       7

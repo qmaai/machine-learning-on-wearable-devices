@@ -1,0 +1,20 @@
+points remains in doubt:
+	individual bias (personal traits affect features like step duration and acceleration. And do not know how to standardise the bias without the height of candidate. Even with it, it will still be hard to standardise.Dicky's advice: if the feature is really influenced, then it will not pass the feauture filltering phase)
+
+features (each line represent both mean and sd):
+acceleration:
+	1. accel mean
+	2. accel sd
+	3. accel mean of max in each step
+	4. accel sd of max in each step
+	5. accel modified mean: root of mean squared accel
+	6. jerk mean
+	7. jerk sd
+	8. jerk mean of max in each step
+	9. jerk sd of max in each step
+	10.jerk modified mean: root of mean squared accel
+	11.step duration mean
+	12.step duration sd
+	13.skewness mean (the symmetry of the graph of each record of acceleration) 
+rotation:
+	same with acceleration

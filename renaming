@@ -1,0 +1,16 @@
+#!/bin/bash
+#renaming files
+
+SAVEIFS=$IFS
+IFS=$(echo -en "\n\b")
+for d in ~/Documents/study/2017_summer/2017_summer_emotion_recognition/data_work/*/; do
+	echo "$d"
+	cd $d
+	a=1
+	for i in *.csv; do
+		new=$(printf "%02d.csv" "$a")
+		mv -i -- "$i" "$new"
+		let a=a+1
+	done
+done
+IFS=$SAVEIFS

@@ -1,0 +1,56 @@
+
+
+2017-08-12 22:48:14.084287
+
+no_bias_elimination
+
+arousal:
+
+accuracy 0.342105263158
+
+Predicted degree  low middle  high
+Actual degree             
+low                 2     3    0
+middle              5    10    0
+high                5    12    1
+
+
+
+valence:
+
+accuracy 0.342105263158
+
+Predicted degree   low  high
+Actual degree          
+low                 13   0
+middle              10   1
+high                14   0
+
+
+
+2017-08-12 22:48:14.115633
+
+
+with_individual_bias_elimination
+
+arousal:
+
+accuracy 0.394736842105
+
+Predicted degree  low   high
+Actual degree          
+low                 0   5
+middle              0  15
+high                1  17
+
+
+valence:
+
+accuracy 0.368421052632
+
+Predicted degree   low  high
+Actual degree          
+low                 12  1
+middle               9  2
+high                 9  5
+

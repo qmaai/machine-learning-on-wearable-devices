@@ -1,0 +1,27 @@
+Emotion recognition
+
+data collection:
+
+data preprocessing
+1. selection of etries
+	1. disgard
+2. selection of data types
+	1.sensors
+	2.
+	3.
+	4.
+3. moving filter to eliminate noise
+4. fatal error made when splitting training and testing (inside the discussion)
+
+feature extraction:
+1. list all of the features
+2. error made:
+	1. feature name
+	2. feature rows not in plave
+
+emotion classification:
+1. random forest
+2. svm
+3. mltilayer perceptron
+
+discussion

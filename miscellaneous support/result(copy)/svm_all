@@ -1,0 +1,201 @@
+
+
+2017-08-12 13:42:17.731266
+
+
+
+	arousal:
+
+
+2017-08-12 13:42:43.646402
+
+
+
+	arousal:
+
+
+2017-08-12 13:43:21.834091
+
+
+
+	arousal:
+			gamma 5		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 10		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 15		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 20		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 25		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 30		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 35		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 40		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+			gamma 45		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+
+
+	valence:
+			gamma 5		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 10		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 15		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 20		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 25		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 30		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 35		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 40		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+			gamma 45		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+
+
+
+2017-08-12 14:18:46.863430
+
+
+
+	arousal:
+
+
+2017-08-12 14:20:36.328035
+
+
+
+	arousal:
+		accuracy 0.342105263158
+
+Predicted degree  0   1  2
+Actual degree             
+0                 0   1  1
+1                 1   9  8
+2                 3  11  4
+
+
+
+	valence:
+		accuracy 0.5
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  7  4
+2                 0  6  8
+

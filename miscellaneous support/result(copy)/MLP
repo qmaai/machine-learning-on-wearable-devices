@@ -1,0 +1,104 @@
+
+
+2017-08-12 16:44:00.345856
+
+with_bias_eli
+
+	arousal:
+		accuracy 0.342105263158
+
+Predicted degree  0  1  2
+Actual degree            
+0                 0  2  0
+1                 5  8  5
+2                 6  7  5
+
+
+
+	valence:
+		accuracy 0.421052631579
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 4  6  5
+2                 2  6  6
+
+
+
+2017-08-12 16:44:01.502622
+
+no_bias_elimination
+
+	arousal:
+		accuracy 0.473684210526
+
+Predicted degree   1
+Actual degree       
+0                  2
+1                 18
+2                 18
+
+
+
+	valence:
+		accuracy 0.394736842105
+
+Predicted degree   1
+Actual degree       
+0                  9
+1                 15
+2                 14
+
+
+
+2017-08-12 16:44:25.709350
+
+with_bias_eli
+
+	arousal:
+		accuracy 0.421052631579
+
+Predicted degree  0  1  2
+Actual degree            
+0                 1  1  0
+1                 3  8  7
+2                 4  7  7
+
+
+
+	valence:
+		accuracy 0.368421052632
+
+Predicted degree  0  1  2
+Actual degree            
+0                 4  2  3
+1                 5  5  5
+2                 3  6  5
+
+
+
+2017-08-12 16:44:27.006752
+
+no_bias_elimination
+
+	arousal:
+		accuracy 0.5
+
+Predicted degree   1  2
+Actual degree          
+0                  2  0
+1                 16  2
+2                 15  3
+
+
+
+	valence:
+		accuracy 0.368421052632
+
+Predicted degree   0  1
+Actual degree          
+0                  9  0
+1                 10  5
+2                  9  5
+

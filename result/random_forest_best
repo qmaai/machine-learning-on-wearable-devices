@@ -1,0 +1,53 @@
+
+
+2017-08-12 23:14:52.595082
+
+with_bias_elimination
+
+2017-08-12 23:15:24.131496
+
+with_individual_bias_elimination
+
+arousal:
+
+n_estimator 15		accuracy 0.394736842105
+
+Predicted degree   high  low  middle
+Actual degree                      
+high                 2    3      13
+low                  0    0       5
+middle               1    1      13
+
+valence:
+
+n_estimator 65		accuracy 0.421052631579
+
+Predicted degree  high  low  middle
+Actual degree                      
+high                 3    3       8
+low                  2    7       4
+middle               1    4       6
+
+2017-08-12 23:15:26.654500
+
+no_bias_elimination
+
+arousal:
+
+n_estimator 25		accuracy 0.473684210526
+
+Predicted degree  high  low
+Actual degree              
+high                17    1
+low                  4    1
+middle              15    0
+
+valence:
+
+n_estimator 90		accuracy 0.368421052632
+
+Predicted degree  high  low  middle
+Actual degree                      
+high                 0    5       9
+low                  0    7       6
+middle               1    3       7
