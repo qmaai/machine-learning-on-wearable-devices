@@ -1,2 +1,3 @@
 # machine-learning-on-wearable-devices
-Based on the sensory data extracted from android devices, features are extracted manually and used to classify emotional states of pedestrians.
+Performs feature engineering upon sensory data extracted from SensorFetch
+Regress features onto emotion classifiers that are collected in pedestrain experiements.
